@@ -48,8 +48,8 @@
     "lodash": "^3.10.0",
     "page": "^1.6.3",
     "prelude-ls": "^1.1.2",
-    "react": "^0.13.3",
-    "react-hot-loader": "^1.2.7",
+    "react": "^15.4.2",
+    "react-hot-loader": "*",
     "webpack": "^1.9.10",
     "webpack-dev-server": "^1.9.0",
     "xss-filters": "^1.2.4"
